@@ -1,0 +1,28 @@
+{
+  "name": "forchetta",
+  "version": "1.0.0",
+  "description": "Share Recipe Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ayazpathan: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@github.com/ayazpathan/share-recepie.git"
+  },
+  "author": "Aiyazkhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayazpathan/share-recepie/issues"
+  },
+  "homepage": "https://github.com/ayazpathan/share-recepie#readme",
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-rc.0",
+    "@parcel/transformer-sass": "^2.0.0-rc.0",
+    "parcel": "^2.0.0-rc.0"
+  },
+  "dependencies": {
+    "sass": "^1.26.10"
+  }
+}
