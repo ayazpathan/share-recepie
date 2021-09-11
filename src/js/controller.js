@@ -35,6 +35,7 @@ const showRecipe = async function(){
     console.log(recipe);
 
     // 2) Rendering recipe
+    // This is just a temporary chnage
     const markup = `
     <figure class="recipe__fig">
     <img src="src/img/test-1.jpg" alt="Tomato" class="recipe__img" />
